@@ -1,4 +1,4 @@
-# FuzionLabs
+# Fuzion Labs
 Full custom clan for Monster Train
 
 ## Features
